@@ -1,2 +1,3 @@
 # main-rep
-# Steven Minh-Tam Nguyen, https://github.com/StevenMTN
+# Repository for personlige prosjekter
+# Felix Leon Hammond
