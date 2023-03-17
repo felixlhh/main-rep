@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MobilButikk
+comment1.params=mobilpris
+comment1.target=MobilButikk(int)
+comment2.params=antallMobiler
+comment2.target=void\ salg(int)
+comment3.params=
+comment3.target=int\ sjekkLagerstatus()
+comment4.params=
+comment4.target=int\ sjekkSalgsinntekter()
+comment5.params=varer
+comment5.target=void\ lagerP\u00E5fyll(int)
+numComments=6

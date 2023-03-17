@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bokhylle
+comment1.params=
+comment1.target=Bokhylle()
+comment2.params=
+comment2.target=int\ getB\u00F8ker()
+comment3.params=navn
+comment3.target=void\ nyBok(java.lang.String)
+comment4.params=index
+comment4.target=void\ fjernBok(int)
+comment5.params=index
+comment5.target=java.lang.String\ hentBok(int)
+comment6.params=
+comment6.target=void\ iterate()
+comment7.params=
+comment7.target=void\ foreach()
+comment8.params=
+comment8.target=void\ printB\u00F8ker()
+numComments=9

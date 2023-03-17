@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Karakterliste
+comment1.params=
+comment1.target=Karakterliste()
+comment2.params=
+comment2.target=float\ snitt()
+comment3.params=index
+comment3.target=int\ lesKarakter(int)
+numComments=4

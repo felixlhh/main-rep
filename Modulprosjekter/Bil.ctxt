@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bil
+comment1.params=
+comment1.target=Bil()
+comment2.params=distanse
+comment2.target=void\ kj\u00F8rBil(int)
+comment3.params=liter
+comment3.target=double\ fyllBensin(double)
+comment4.params=
+comment4.target=double\ sjekkBensin()
+comment5.params=
+comment5.target=double\ sjekkKm()
+numComments=6

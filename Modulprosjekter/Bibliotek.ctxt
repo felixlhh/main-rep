@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Bibliotek
+comment1.params=
+comment1.target=Bibliotek()
+comment2.params=
+comment2.target=int\ getB\u00F8ker()
+comment3.params=navn
+comment3.target=void\ nyBok(java.lang.String)
+comment4.params=index
+comment4.target=void\ fjernBok(int)
+comment5.params=index
+comment5.target=java.lang.String\ hentBok(int)
+comment6.params=
+comment6.target=void\ foreachPrint()
+comment7.params=
+comment7.target=void\ oppdaterListe()
+comment7.text=public\ void\ iteratePrint\ ()\ {\r\n\ \ \ \ Iterator<String>\ iterator\ \=\ b\u00F8ker.iterator();\r\n\ \ \ \ int\ max\ \=\ 3;\r\n\ \ \ \ \ \ while(b\u00F8ker.size()\ >\ max)\ {\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ iterator.next();\r\n\ \ \ \ \ \ \ \ iterator.remove();\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ System.out.println(b\u00F8ker);\ \ \ \ \r\n}
+numComments=8

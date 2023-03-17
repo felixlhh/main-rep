@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Parkering
+comment1.params=kapasitet
+comment1.target=Parkering(int)
+comment2.params=regnr
+comment2.target=java.lang.String\ parker(java.lang.String)
+comment3.params=regnr
+comment3.target=java.lang.Boolean\ kj\u00F8rUt(java.lang.String)
+comment4.params=
+comment4.target=void\ oversikt()
+comment5.params=regnr
+comment5.target=void\ hvorSt\u00E5rBilen(java.lang.String)
+comment6.params=plass
+comment6.target=java.lang.String\ erPlassenLedig(int)
+comment7.params=
+comment7.target=int\ ledigePlasser()
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Terninger
+comment0.text=\r\n\r\nThe\ Terninger\ class\ simulates\ rolling\ multiple\ dice\ and\ stores\ the\ results\ in\ a\ HashMap.\r\n\r\n@author\ Felix\ Leon\ Hammond\r\n
+comment1.params=antall
+comment1.target=Terninger(int)
+comment1.text=\r\n\r\n\ \ \ \ Constructs\ a\ Terninger\ object\ with\ a\ specified\ number\ of\ dice.\r\n\ \ \ \ @param\ antall\ the\ number\ of\ dice\ being\ rolled\r\n
+comment2.params=
+comment2.target=java.lang.String\ terningKast()
+comment2.text=\r\n\r\n\ \ \ \ Simulates\ rolling\ multiple\ dice\ and\ returns\ a\ string\ representing\ the\ results.\r\n\ \ \ \ @return\ a\ string\ representing\ the\ results\ of\ the\ dice\ roll\r\n
+comment3.params=antallKast
+comment3.target=void\ terningSimulator(int)
+comment3.text=\r\n\r\n\ \ \ \ Simulates\ rolling\ multiple\ dice\ a\ specified\ number\ of\ times\ and\ stores\ the\ results\ in\ a\ HashMap.\r\n\ \ \ \ @param\ antallKast\ the\ number\ of\ times\ to\ roll\ the\ dice\r\n
+comment4.params=
+comment4.target=void\ visTabell()
+comment4.text=\r\n\r\n\ \ \ \ Prints\ the\ contents\ of\ the\ HashMap\ storing\ the\ results\ of\ the\ dice\ rolls.\r\n
+comment5.params=
+comment5.target=void\ t\u00F8mTabell()
+comment5.text=\r\n\r\n\ \ \ \ Clears\ the\ HashMap\ storing\ the\ results\ of\ the\ dice\ rolls.\r\n
+numComments=6
